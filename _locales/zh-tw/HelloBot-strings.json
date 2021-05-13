@@ -1,6 +1,7 @@
 {
 
   "HelloBot.Ultrasonic_Car|block": "超聲波返回（cm）",
+  "HelloBot.Ultrasonic_CarV2|block": "microbit|V2|超聲波返回（cm）",
   "HelloBot.RGB_Car_Program|block": "車身七彩流水燈",
   "HelloBot.RGB_LArm_Program|block": "左手臂七彩流水燈",
   "HelloBot.RGB_RArm_Program|block": "右手臂七彩流水燈",
