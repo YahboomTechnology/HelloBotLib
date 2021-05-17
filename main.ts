@@ -646,7 +646,7 @@ namespace HelloBot {
 		pins.digitalWritePin(DigitalPin.P14, 0);
 
 		let d = pins.pulseIn(DigitalPin.P15, PulseValue.High, 500 * 58);
-        return  Math.idiv(d / 58)
+        return  Math.idiv(d / 58);
     }
 
     //% blockId=HelloBot_Avoid_Sensor block="Avoid_Sensor|direct %direct|value %value"
